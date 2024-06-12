@@ -2,7 +2,7 @@
 An implementation of the [Gradient Consistency Model](https://arxiv.org/abs/2405.17029).
 
 ## Setup
-This code runs on python 3.10.9. See requirements.txt for packages required.
+This code has been tested on python 3.10.9 and 3.10.13. See requirements.txt for packages required.
 
 
 ## Citation
