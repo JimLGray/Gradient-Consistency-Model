@@ -1,5 +1,7 @@
 # Gradient-Consistency-Model
-An implementation of the Gradient Consistency Model.
+An implementation of the [Gradient Consistency Model](https://arxiv.org/abs/2405.17029).
+
+## Setup
 
 ## Citation
 If you make use of this code, please cite our paper:
